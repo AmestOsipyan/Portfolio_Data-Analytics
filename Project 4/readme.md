@@ -1,4 +1,6 @@
 # 4. Исследование поведения пользователей сервиса аренды самокатов
+https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%204/Project4_Scooter%20rental%20service.ipynb
+
 
 ## Задачи проекта:
 Проверить гипотезы сервиса аренды самокатов, чтобы помочь вырастить бизнес.
