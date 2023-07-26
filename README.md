@@ -10,7 +10,7 @@ A majority of my projects are done using the Python programming language in Jupy
 |Project                                  |Stage of Course                      |Subjects Covered                     |
 |:----------------------------------------|:------------------------------------|:------------------------------------|
 |1. [Data exploration from the Yandex.Music service - a comparison of users of two cities](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%201/Project1_Yandex.Music.ipynb)|Basic Python|Data processing, duplicates, gaps, logical indexing, grouping, sorting|
-|2. Borrower reliability research - banking data analysis|Data preprocessing|Data processing, duplicates, gaps, categorization, decomposition|
+|2. [Borrower reliability research - banking data analysis](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%202/Project2_Reliability%20of%20borrowers.ipynb)|Data preprocessing|Data processing, duplicates, gaps, categorization, decomposition|
 |3. Sale of appartaments in St.Petersburg - real estate market analysis|Exploratory data analysis|Data processing, histogram, boxplot, scatter matrix, categorization, scatter plot, fraud monitoring|
 |4. Analysis of the behavior of users of the scooter rental service|Statistical analysis of Data|Data processing, histogram, boxplot, statistical test, t-Student's criterion|
 |5. Analysis of patterns that determine the success of games|Common project 1|Data processing, histogram, boxplot, statistical test, t-Student's criterion, piechart|
