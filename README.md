@@ -10,13 +10,13 @@ A majority of my projects are done using the Python programming language in Jupy
 |Project                                  |Stage of Course                      |Subjects Covered                     |
 |:----------------------------------------|:------------------------------------|:------------------------------------|
 |1. Data exploration from the Yandex.Music service - a comparison of users of two cities|Basic Python|Data processing, duplicates, gaps, logical indexing, grouping, sorting|
-|2. Borrower reliability research - banking data analysis|Data preprocessing|data processing, duplicates, gaps, categorization, decomposition|
-|3. Sale of appartaments in St.Petersburg - real estate market analysis|Exploratory data analysis|data processing, histogram, boxplot, scatter matrix, categorization, scatter plot, fraud monitoring|
-|4. Analysis of the behavior of users of the scooter rental service|Statistical analysis of Data|data processing, histogram, boxplot, statistical test, t-Student's criterion|
-|5. Analysis of patterns that determine the success of games|Common project 1|data processing, histogram, boxplot, statistical test, t-Student's criterion, piechart|
-|6. Analysis of data on investments of venture funds in start-up companies|Sasic SQL|data processing, data upload, SQL| 
-|7. Loss ananlysis of the Procrastinate Pro+ application|Analysis of business indicators|data processing, statistical test, LTV, CAC, cohort analysis|
-|8. Analysis of the Q&A Service on programming|Advanced SQL|data processing, data upload, SQL|
+|2. Borrower reliability research - banking data analysis|Data preprocessing|Data processing, duplicates, gaps, categorization, decomposition|
+|3. Sale of appartaments in St.Petersburg - real estate market analysis|Exploratory data analysis|Data processing, histogram, boxplot, scatter matrix, categorization, scatter plot, fraud monitoring|
+|4. Analysis of the behavior of users of the scooter rental service|Statistical analysis of Data|Data processing, histogram, boxplot, statistical test, t-Student's criterion|
+|5. Analysis of patterns that determine the success of games|Common project 1|Data processing, histogram, boxplot, statistical test, t-Student's criterion, piechart|
+|6. Analysis of data on investments of venture funds in start-up companies|Basic SQL|Data processing, data upload, SQL| 
+|7. Loss ananlysis of the Procrastinate Pro+ application|Analysis of business indicators|Data processing, statistical test, LTV, CAC, cohort analysis|
+|8. Analysis of the Q&A Service on programming|Advanced SQL|Data processing, data upload, SQL|
 |9. Testing hypotheses to increase revenue in an online store - analyse A/B test results|Business decision making|A/B test, statistical test, framework, RICE, ICE|
 |10. Analysis of user behavior in a mobile application|Common project 2|A/B test, statistical test, visualization|
 
