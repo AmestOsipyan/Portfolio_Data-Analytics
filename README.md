@@ -18,5 +18,5 @@ A majority of my projects are done using the Python programming language in Jupy
 |7. Loss ananlysis of the Procrastinate Pro+ application|Analysis of business indicators|Data processing, statistical test, LTV, CAC, cohort analysis|
 |8. Analysis of the Q&A Service on programming|Advanced SQL|Data processing, data upload, SQL|
 |9. Testing hypotheses to increase revenue in an online store - analyse A/B test results|Business decision making|A/B test, statistical test, framework, RICE, ICE|
-|10. Analysis of user behavior in a mobile application|Common project 2|A/B test, statistical test, visualization|
+|10. [Analysis of user behavior in a mobile application](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%2010/Project10_Mobile%20app%20analysis.ipynb)|Common project 2|A/B test, statistical test, visualization|
 
