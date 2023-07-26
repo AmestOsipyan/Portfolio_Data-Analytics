@@ -1,4 +1,6 @@
 # 7.  Анализ убытков приложения ProcrastinatePRO+
+https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%207/Project7_Analysis%20of%20business%20indicators.ipynb
+
 
 ## Задачи проекта:
 Задача для маркетингового аналитика развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Ваша задача — разобраться в причинах и помочь компании выйти в плюс.
