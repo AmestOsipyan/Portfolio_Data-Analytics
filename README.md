@@ -14,7 +14,7 @@ A majority of my projects are done using the Python programming language in Jupy
 |3. [Sale of appartaments in St.Petersburg - real estate market analysis](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%203/Project3_Sale%20of%20apartments.ipynb)|Exploratory data analysis|Data processing, histogram, boxplot, scatter matrix, categorization, scatter plot, fraud monitoring|
 |4. [Analysis of the behavior of users of the scooter rental service|Statistical analysis of Data](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%204/Project4_Scooter%20rental%20service.ipynb)|Data processing, histogram, boxplot, statistical test, t-Student's criterion|
 |5. [Analysis of patterns that determine the success of games](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%205/Project5_Online%20store%20Strimchik.ipynb)|Common project 1|Data processing, histogram, boxplot, statistical test, t-Student's criterion, piechart|
-|6. Analysis of data on investments of venture funds in start-up companies|Basic SQL|Data processing, data upload, SQL| 
+|6. [Analysis of data on investments of venture funds in start-up companies](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%206/1_sql_tasks.sql)|Basic SQL|Data processing, data upload, SQL| 
 |7. Loss ananlysis of the Procrastinate Pro+ application|Analysis of business indicators|Data processing, statistical test, LTV, CAC, cohort analysis|
 |8. Analysis of the Q&A Service on programming|Advanced SQL|Data processing, data upload, SQL|
 |9. Testing hypotheses to increase revenue in an online store - analyse A/B test results|Business decision making|A/B test, statistical test, framework, RICE, ICE|
