@@ -17,6 +17,6 @@ A majority of my projects are done using the Python programming language in Jupy
 |6. [Analysis of data on investments of venture funds in start-up companies](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%206/1_sql_tasks.sql)|Basic SQL|Data processing, data upload, SQL| 
 |7. [Loss ananlysis of the Procrastinate Pro+ application](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%207/Project7_Analysis%20of%20business%20indicators.ipynb)|Analysis of business indicators|Data processing, statistical test, LTV, CAC, cohort analysis|
 |8. [Analysis of the Q&A Service on programming](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%208/2_sql_tasks.sql)|Advanced SQL|Data processing, data upload, SQL|
-|9. Testing hypotheses to increase revenue in an online store - analyse A/B test results|Business decision making|A/B test, statistical test, framework, RICE, ICE|
+|9. [Testing hypotheses to increase revenue in an online store - analyse A/B test results](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%209/Project9_Hypothesis%20Prioritiz.%20and%20AB%20Test%20Analysis.ipynb)|Business decision making|A/B test, statistical test, framework, RICE, ICE|
 |10. [Analysis of user behavior in a mobile application](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%2010/Project10_Mobile%20app%20analysis.ipynb)|Common project 2|A/B test, statistical test, visualization|
 
