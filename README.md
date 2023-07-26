@@ -1,5 +1,5 @@
 # DA_Yandex.projects
-This repository is containing a portfolio of data analyst projects that I have done under Data Analysis Course by Yandex Practicum.
+This repository is containing the portfolio of data analyst projects that I have done under Data Analysis Course by Yandex Practicum.
 
 This Course prepares me for a career as a data analyst by helping to learn analytics tools (Python, SQL, Jupiter Notebook), how to communicate effectivly and ask questions for making data-driven decisions, how to prepare data for exploration, to clean and organize data, uncover patterns and insights, analyze data to answer questions, statistical analysis, data visualization, presentation skills, etc.
 
