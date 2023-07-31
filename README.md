@@ -1,22 +1,19 @@
-# DA_Yandex.projects
-This repository is containing the portfolio of data analyst projects that I have done under Data Analysis Course by Yandex Practicum.
+# Портфолио проектов
 
-This Course prepares me for a career as a data analyst by helping to learn analytics tools (Python, SQL, Jupiter Notebook), how to communicate effectivly and ask questions for making data-driven decisions, how to prepare data for exploration, to clean and organize data, uncover patterns and insights, analyze data to answer questions, statistical analysis, data visualization, presentation skills, etc.
+Данный репозиторий содержит проекты по Дата аналитике, выполненные в ходе учебного курса Яндекс.Практикум, Ааналитик данных.
 
-A majority of my projects are done using the Python programming language in Jupyter Notebook. Some of the most used packages are Pandas, Numpy, SciPy, Matplotlib, Seaborn, Plotly.
+## Короткое описание проектов 
 
-## Brief descriptions of the projects 
-
-|Project                                  |Stage of Course                      |Subjects Covered                     |
+|Наименование проекта                                  |Описание                    |Стек                    |
 |:----------------------------------------|:------------------------------------|:------------------------------------|
-|1. [Data exploration from the Yandex.Music service - a comparison of users of two cities](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%201/Project1_Yandex.Music.ipynb)|Basic Python|Data processing, duplicates, gaps, logical indexing, grouping, sorting|
-|2. [Borrower reliability research - banking data analysis](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%202/Project2_Reliability%20of%20borrowers.ipynb)|Data preprocessing|Data processing, duplicates, gaps, categorization, decomposition|
-|3. [Sale of appartaments in St.Petersburg - real estate market analysis](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%203/Project3_Sale%20of%20apartments.ipynb)|Exploratory data analysis|Data processing, histogram, boxplot, scatter matrix, categorization, scatter plot, fraud monitoring|
-|4. [Analysis of the behavior of users of the scooter rental service](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%204/Project4_Scooter%20rental%20service.ipynb)|Statistical analysis of Data|Data processing, histogram, boxplot, statistical test, t-Student's criterion|
-|5. [Analysis of patterns that determine the success of games](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%205/Project5_Online%20store%20Strimchik.ipynb)|Common project 1|Data processing, histogram, boxplot, statistical test, t-Student's criterion, piechart|
-|6. [Analysis of data on investments of venture funds in start-up companies](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%206/1_sql_tasks.sql)|Basic SQL|Data processing, data upload, SQL| 
-|7. [Loss ananlysis of the Procrastinate Pro+ application](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%207/Project7_Analysis%20of%20business%20indicators.ipynb)|Analysis of business indicators|Data processing, statistical test, LTV, CAC, cohort analysis|
-|8. [Analysis of the Q&A Service on programming](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%208/2_sql_tasks.sql)|Advanced SQL|Data processing, data upload, SQL|
-|9. [Testing hypotheses to increase revenue in an online store - analyse A/B test results](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%209/Project9_Hypothesis%20Prioritiz.%20and%20AB%20Test%20Analysis.ipynb)|Business decision making|A/B test, statistical test, framework, RICE, ICE|
-|10. [Analysis of user behavior in a mobile application](https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%2010/Project10_Mobile%20app%20analysis.ipynb)|Common project 2|A/B test, statistical test, visualization|
+|1. Исследование данных сервиса “Яндекс.Музыка|Проверка данных и сравнение поведений и предпочтений пользователей Москвы и Санкт-Петербурга на реальных данных Яндекс.Музыки|Python, Pandas|
+|2. Исследование надёжности заёмщиков — анализ банковских данных|Исследование влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок на основе статистики о платёжеспособности клиентов|Предобработка данных, Python, Pandas|
+|3. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости|Определение рыночной стоимости объектов недвижимости и типичных параметров квартир используя данные сервиса Яндекс.Недвижимость|Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных|
+|4. Исследование поведения пользователей сервиса аренды самокатов|Проверка гипотез сервиса аренды самокатов для масштабирования бизнеса|Python, Pandas, Matplotlib, NumPy, SciPy, описательная статистика, проверка статистических гипотез|
+|5. Изучение закономерностей, определяющих успешность игр|Выявление закономерностей, определяющие успешность игры, используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы|Python, Pandas, NumPy, Matplotlib, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез|
+|6. Исследование данных об инвестиции венчурных фондов в компании-стартапы|Произведены различные выгрузки данных венчурных фондов с помощью SQL|SQL, PostgreSQL| 
+|7. Анализ убытков приложения ProcrastinatePRO+|Анализ данных от ProcrastinatePRO+. Рассчет различных метрик, когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д.|Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики, Seaborn|
+|8. Анализ сервиса вопросов и ответов по программированию|Расчет и визуализация ключевых метрик сервис-системы вопросов и ответов о программировании|SQL, PostgreSQL|
+|9. Проверка гипотез по увеличению выручки в интернет-магазине — оценка результатов A/B теста|Приоритезация гипотез (ICE, RICE), оценка результатов A/B-тестирования различными методами|Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических гипотез|
+|10. Анализ пользовательского поведения в мобильном приложении|Построение и анализ воронки продаж, оценка результатов A/A/B-тестирования |A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез, визуализация данных|
 
