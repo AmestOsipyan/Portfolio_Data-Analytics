@@ -1,12 +1,10 @@
 # 8. Анализ сервиса вопросов и ответов по программированию
-https://github.com/AmestOsipyan/DA_Yandex.projects/blob/main/Project%208/2_sql_tasks.sql
+[sql](https://github.com/AmestOsipyan/Portfolio_Data-Analytics/blob/main/8.%20%20Q%26A%20Service%20on%20programming/SQL2_Q%26A%20Service.sql)
 
-
-## Задачи проекта:
-С помощью SQL посчитать и визуализировать ключевые метрики сервис-системы вопросов и ответов о программировании.
 
 ## Описание проекта:
-Написаны все сложные SQL-запросы для подсчёта требуемых значений и метрик.
+Написаны все сложные SQL-запросы для подсчёта ключевых метрик сервис-системы вопросов и ответов о программировании.
+
 
 ## ER-диаграмма:
 ![изображение](https://github.com/AmestOsipyan/DA_Yandex.projects/assets/139769461/6abf632b-2b89-4c65-a284-26a76c3a7414)
