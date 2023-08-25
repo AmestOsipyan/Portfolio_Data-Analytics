@@ -1,5 +1,6 @@
 # 12. Создание дашборда по пользовательским событиям для агрегатора новостей
-[pdf](https://github.com/AmestOsipyan/Portfolio_Data-Analytics/blob/main/10.%20%20User%20behavior%20in%20a%20mobile%20app/P10_MobileApp_user%20behavior.ipynb)
+[pdf](https://github.com/AmestOsipyan/Portfolio_Data-Analytics/tree/main/12.%20TED%20Dashboard)
+[tableau](https://public.tableau.com/app/profile/amest.osipian/viz/P12_TED/TEDconferences)
 
 ## Описание проекта:
 TED (от англ. technology, education, design — «технологии, образование, дизайн») — некоммерческий фонд, который проводит популярные конференции. На них выступают специалисты из разных областей и читают лекции на актуальные социальные, культурные и научные темы. Исследуем историю TED-конференций и создадим дашборд в Tableau на основе полученных данных. 
