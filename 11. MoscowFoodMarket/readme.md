@@ -1,5 +1,5 @@
 # 11. Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
-[ipynb](https://github.com/AmestOsipyan/Portfolio_Data-Analytics/blob/main/10.%20%20User%20behavior%20in%20a%20mobile%20app/P10_MobileApp_user%20behavior.ipynb)
+[ipynb](https://github.com/AmestOsipyan/Portfolio_Data-Analytics/blob/main/11.%20MoscowFoodMarket/P11_MoscowFoodMarket2.ipynb)
 
 ## Описание проекта:
 Исследование рынка общественного питания на основе открытых данных, подготовка презентации. 
