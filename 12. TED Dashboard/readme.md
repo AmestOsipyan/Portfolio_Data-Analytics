@@ -1,4 +1,4 @@
-# 12. Анализ пользовательского поведения в мобильном приложении
+# 12. Создание дашборда по пользовательским событиям для агрегатора новостей
 [pdf](https://github.com/AmestOsipyan/Portfolio_Data-Analytics/blob/main/10.%20%20User%20behavior%20in%20a%20mobile%20app/P10_MobileApp_user%20behavior.ipynb)
 
 ## Описание проекта:
